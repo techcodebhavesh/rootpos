@@ -71,5 +71,8 @@
     "postcss-preset-env": "^10.0.5",
     "resolve-url-loader": "^5.0.0",
     "sass-loader": "^13.3.3"
-  }
+  },
+  "engines": {
+  "node": "20.10.0"    
+}
 }
