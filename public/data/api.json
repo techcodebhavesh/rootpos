@@ -87,7 +87,7 @@
                "version": "1.0",
                "name": "Logo(Image Url)",
                "description": "Upload a logo image",
-               "value": "https://shuaa-sticky.netlify.app/assets/img/logo-icon.png"
+               "value": "https://firebasestorage.googleapis.com/v0/b/ondch-a7319.appspot.com/o/product_1%2Froot.ai%20(4).png?alt=media&token=5ed8ac70-296e-4565-ba36-d99543f90ba5"
             },
             {
                "id": "5",
@@ -137,7 +137,7 @@
       },
       {
          "id": 2,
-         "name": "Did You Know?",
+         "name": "Root Template 1",
          "version": "1.0",
          "description": "This is a DidYou template.",
          "height": 500,
@@ -176,7 +176,7 @@
                      "version": "1.0",
                      "name": "Cover Image URL",
                      "description": "Enter the URL of the cover image",
-                     "value": "https://images.unsplash.com/photo-1587049352895-5caf69ef3b6e"
+                     "value": "https://techcrunch.com/wp-content/uploads/2024/08/inbriefsam.png"
                   }
                ]
             },
@@ -244,7 +244,7 @@
                      "version": "1.0",
                      "name": "Fact",
                      "description": "Enter an interesting fact about food",
-                     "value": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+                     "value": "ChatGPT maker OpenAI’s next funding round, said to be around $6.5 billion, could close as soon as the end of next week."
                   },
                   {
                      "id": 14,
@@ -277,7 +277,7 @@
                      "version": "1.0",
                      "name": "Footer Text",
                      "description": "Enter the footer text",
-                     "value": "Learn more about food facts!"
+                     "value": "Learn more about tech on root!"
                   }
                ]
             }
@@ -285,7 +285,7 @@
       },
       {
          "id": 3,
-         "name": "Did You Know? 2",
+         "name": "Root Template 2      ",
          "version": "1.0",
          "description": "This is a DidYou template.",
          "height": 500,
@@ -324,7 +324,7 @@
                      "version": "1.0",
                      "name": "Cover Image URL",
                      "description": "Enter the URL of the cover image",
-                     "value": "https://images.unsplash.com/photo-1587049352895-5caf69ef3b6e"
+                     "value": "https://techcrunch.com/wp-content/uploads/2024/08/inbriefsam.png"
                   }
                ]
             },
@@ -392,7 +392,7 @@
                      "version": "1.0",
                      "name": "Fact",
                      "description": "Enter an interesting fact about food",
-                     "value": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+                     "value": "ChatGPT maker OpenAI’s next funding round, said to be around $6.5 billion, could close as soon as the end of next week."
                   },
                   {
                      "id": 14,
@@ -403,7 +403,7 @@
                      "version": "1.0",
                      "name": "Title",
                      "description": "Enter the Title",
-                     "value": "Did you know?"
+                     "value": "ROOT template "
                   },
                   {
                      "id": "19",
@@ -425,7 +425,7 @@
                      "version": "1.0",
                      "name": "Footer Text",
                      "description": "Enter the footer text",
-                     "value": "Learn more about food facts!"
+                     "value": "Learn more about tech on root !"
                   }
                ]
             }

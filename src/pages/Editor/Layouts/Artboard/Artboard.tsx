@@ -15,7 +15,7 @@ function Artboard(props: { editor: string }) {
   const currentTemplate = useAppSelector(getCurrentTemplate);
 
   const handleExport = () => {
-    let elm = document.getElementById("render-layer");
+    let elm = document.getElementById("");
     if (elm) {
       toPng(elm).then(function (dataUrl) {
         require("downloadjs")(dataUrl, currentTemplate.name);

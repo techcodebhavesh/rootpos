@@ -35,7 +35,7 @@ function App() {
       <>
           {isMobile ? (
               <div className={styles.warningOverlay}>
-                  <p>Oops! This app is designed for tablets and larger screens. For the best experience, please switch to a tablet or desktop device.</p>
+                  <p>LAPTOP USE KARO</p>
               </div>
           ) : (
               <div className={styles[currentThemeMode.handle]}>
