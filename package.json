@@ -1,5 +1,5 @@
 {
-  "name": "ROOT_P_V1",
+  "name": "social-post-maker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,9 +37,9 @@
   },
   "scripts": {
     "api": "json-server --watch public/data/api.json -d 2000",
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts --openssl-legacy-provider test",
+    "start": "set PORT=3006 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -71,8 +71,5 @@
     "postcss-preset-env": "^10.0.5",
     "resolve-url-loader": "^5.0.0",
     "sass-loader": "^13.3.3"
-  },
-  "engines": {
-  "node": "20.10.0"    
-}
+  }
 }
